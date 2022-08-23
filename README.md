@@ -6,12 +6,6 @@
 - 🌱 Learning a lot of things, but that's what I'll always do.
 - 🐦 Find me on le Tweeter: [@xewl](https://twitter.com/xewl)
 
-### Some statistics 📈
-
-![](https://github-readme-stats.vercel.app/api?username=xewl)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xewl)
-
 ### Utilitary Cloud ☁️
 
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
